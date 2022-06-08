@@ -4,4 +4,5 @@
 
 Сортировка массивов
 
-MargeSort
+    MargeSort
+    BubbleSort
